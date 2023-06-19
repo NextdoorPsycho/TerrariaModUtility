@@ -12,6 +12,10 @@ And, the individual folders appear something like this:
 
 ![Internal Folders](https://storage.googleapis.com/psycho_upload/ShareX/2023/06/explorer_XFYSkCNq8Q.png)
 
+Furthermore this utility helps deobfuscate the steam ID's and order for you:
+
+![ID Nomner](https://storage.googleapis.com/psycho_upload/ShareX/2023/06/Code_-_Insiders_dlT58CBTBo.png)
+
 ## 🛠 The Config File Example 
 
 ```json
